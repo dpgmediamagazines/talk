@@ -3,6 +3,11 @@ en:
     format_bold: bold
     format_italic: italic
     format_blockquote: blockquote
+he:
+  talk-plugin-rich-text:
+    format_bold: מודגש
+    format_italic: נטוי
+    format_blockquote: blockquote
 nl_NL:
   talk-plugin-rich-text:
     format_bold: vetgedrukt
